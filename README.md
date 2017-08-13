@@ -1,0 +1,1 @@
+QT OPENCV# ImagePlatform
